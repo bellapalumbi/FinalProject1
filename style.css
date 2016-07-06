@@ -1,0 +1,17 @@
+#textDiv {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    border: 2px solid white;
+}
+
+#container {
+    display: flex;
+}
+
+.minicontainer {
+    flex-grow: 1;
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
